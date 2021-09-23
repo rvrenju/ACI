@@ -7,7 +7,7 @@ ncclient
 uniq
 ipaddress
 virlutils
-ansible==2.9.12
+ansible==4.2.0
 autopep8
 black
 yapf
